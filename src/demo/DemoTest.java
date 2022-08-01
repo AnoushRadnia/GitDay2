@@ -5,5 +5,13 @@ public class DemoTest {
 		
 		System.out.println("Test");
 	}
+	
+	
+	
+	public static void divide(int a , int b) {
+		
+		
+		System.out.println(a/b);
+	}
 
 }
